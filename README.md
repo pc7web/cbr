@@ -1,5 +1,5 @@
-# cbr = Custom Border Radius
+# CBR is an abbreviation for Custom Border Radius
 
-Custom border radius using graphic approach #pixie
+Here, I have created Custom border radius using graphic approach #pixie
 
 This web software will give you freedom of making amazing custom radius border
