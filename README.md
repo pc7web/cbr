@@ -1,4 +1,4 @@
-# cbr = Custom Border Radius
+# cbr = Custom Border Radius for css3
 
 Custom border radius using graphic approach #pixie
 
